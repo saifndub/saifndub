@@ -43,7 +43,7 @@
 
 [<img src="tools/03_python.svg" alt="python" width="40" height="40"/>][python]
 [<img src="tools/23_docker.svg" alt="docker" width="40" height="40"/>][docker]
-[<img src="tools/31_pandas.svg" alt="pandas" width="40" height="40"/>][pandas]
+[<img src="tools/32_pandas.svg" alt="pandas" width="40" height="40"/>][pandas]
 [<img src="tools/32_numpy.svg" alt="numpy" width="40" height="40"/>][numpy]
 [<img src="tools/33_pytorch.svg" alt="pytorch" width="40" height="40"/>][pytorch]
 [<img src="tools/38_scikit.svg" alt="scikit_learn" width="40" height="40"/>][sklearn]
