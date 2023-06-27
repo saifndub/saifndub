@@ -49,6 +49,7 @@
 [<img src="tools/36_matplotlib.svg" alt="matplotlib" width="40" height="40"/>][matplotlib]
 [<img src="tools/34_scipy_2.svg" alt="pytorch" width="40" height="40"/>][scipy]
 [<img src="tools/33_pytorch.svg" alt="pytorch" width="40" height="40"/>][pytorch]
+[<img src="tools/35_seaborn.svg" alt="pytorch" width="40" height="40"/>][seaborn]
 [<img src="tools/38_scikit.svg" alt="scikit_learn" width="40" height="40"/>][sklearn]
 [<img src="tools/39_power_BI.svg" alt="power-bi" width="40" height="40"/>][power-bi]
 [<img src="tools/40_tableau.svg" alt="tableau" width="40" height="40"/>][tableau]
