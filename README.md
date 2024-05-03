@@ -41,18 +41,18 @@
 [<img src="tools/25_selenium.svg" alt="selenium" width="40" height="40"/>][selenium]
 [<img src="tools/26_puppeteer.svg" alt="puppeteer" width="40" height="40"/>][puppeteer]
 
+[<img src="tools/03_python.svg" alt="python" width="40" height="40"/>][python]
+[<img src="tools/39_power_BI.svg" alt="power-bi" width="40" height="40"/>][power-bi]
+[<img src="tools/40_tableau.svg" alt="tableau" width="40" height="40"/>][tableau]
 [<img src="tools/23_docker.svg" alt="docker" width="40" height="40"/>][docker]
 [<img src="tools/32_pandas.svg" alt="pandas" width="40" height="40"/>][pandas]
-[<img src="tools/03_python.svg" alt="python" width="40" height="40"/>][python]
 [<img src="tools/32_numpy.svg" alt="numpy" width="40" height="40"/>][numpy]
 [<img src="tools/37_tensorflow.svg" alt="tensorflow" width="40" height="40"/>][tensorflow]
+[<img src="tools/38_scikit.svg" alt="scikit_learn" width="40" height="40"/>][sklearn]
 [<img src="tools/36_matplotlib.svg" alt="matplotlib" width="40" height="40"/>][matplotlib]
 [<img src="tools/33_pytorch.svg" alt="pytorch" width="40" height="40"/>][pytorch]
 [<img src="tools/34_scipy_2.svg" alt="pytorch" width="40" height="40"/>][scipy]
 [<img src="tools/35_seaborn.svg" alt="pytorch" width="40" height="40"/>][seaborn]
-[<img src="tools/38_scikit.svg" alt="scikit_learn" width="40" height="40"/>][sklearn]
-[<img src="tools/39_power_BI.svg" alt="power-bi" width="40" height="40"/>][power-bi]
-[<img src="tools/40_tableau.svg" alt="tableau" width="40" height="40"/>][tableau]
 </p>
 
 <img align="right" alt="Saif's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifndub&theme=dark&show_icons=true&locale=en" />
