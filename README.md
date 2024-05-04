@@ -51,8 +51,8 @@
 [<img src="tools/38_scikit.svg" alt="scikit_learn" width="40" height="40"/>][sklearn]
 [<img src="tools/36_matplotlib.svg" alt="matplotlib" width="40" height="40"/>][matplotlib]
 [<img src="tools/33_pytorch.svg" alt="pytorch" width="40" height="40"/>][pytorch]
-[<img src="tools/34_scipy_2.svg" alt="pytorch" width="40" height="40"/>][scipy]
-[<img src="tools/35_seaborn.svg" alt="pytorch" width="40" height="40"/>][seaborn]
+[<img src="tools/34_scipy_2.svg" alt="scipy" width="40" height="40"/>][scipy]
+[<img src="tools/35_seaborn.svg" alt="seaborn" width="40" height="40"/>][seaborn]
 </p>
 
 <img align="right" alt="Saif's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifndub&theme=dark&show_icons=true&locale=en" />
