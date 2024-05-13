@@ -63,12 +63,12 @@
 
 [linkedin]: https://linkedin.com/in/saifndub
 [facebook]: https://www.facebook.com/microsoftsaif
-[kaggle]: https://www.kaggle.com/
+[kaggle]: https://www.kaggle.com/saifndub
 [twitter]: https://twitter.com/saifndub
-[youtube]: https://www.youtube.com/channel/UCvPA_YUCCTzd5RS6d82u6EQ
+[youtube]: https://www.youtube.com/@microsoftsaif
 [instagram]: https://www.instagram.com/saifndub     
+[portfolio]: https://saifndub.github.io/portfolio/
 [gmail]: mailto:saif.ndub@gmail.com
-[portfolio]: https://www.google.com
 
 [c]: https://www.cprogramming.com/
 [cpp]: https://www.w3schools.com/cpp/
