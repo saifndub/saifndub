@@ -9,6 +9,8 @@
 [<img src="https://github.com/saifndub/saifndub/blob/master/icons/twitter.svg" width="40px" alt=" Twitter |" />][twitter]
 [<img src="https://github.com/saifndub/saifndub/blob/master/icons/youtube.svg" width="40px" alt=" YouTube |" />][youtube]
 [<img src="https://github.com/saifndub/saifndub/blob/master/icons/instagram.svg" width="40px" alt=" Instagram |" />][instagram]
+[<img src="https://github.com/saifndub/saifndub/blob/master/logos/hf-logo.png" width="40px" alt=" Hugging Face |" />][hugging-face]
+[<img src="https://github.com/saifndub/saifndub/blob/master/icons/build-logo.png" width="40px" alt=" Backdrop Build |" />][backdrop-build]
 
 - ✍ You can find my projects [here][portfolio]
 - 🔭 I’m currently working on my Research
@@ -50,7 +52,6 @@
 [<img src="tools/33_pytorch.svg" alt="pytorch" width="40" height="40"/>][pytorch]
 [<img src="tools/34_scipy_2.svg" alt="scipy" width="40" height="40"/>][scipy]
 [<img src="tools/35_seaborn.svg" alt="seaborn" width="40" height="40"/>][seaborn]
-
 [<img src="tools/04_javascript.svg" alt="javascript" width="40" height="40"/>][js]
 [<img src="tools/09_bootstrap.svg" alt="bootstrap" width="40" height="40"/>][bootstrap]
 [<img src="tools/13_mysql.svg" alt="mysql" width="40" height="40"/>][mysql]
@@ -69,7 +70,9 @@
 [kaggle]: https://www.kaggle.com/saifndub
 [twitter]: https://twitter.com/saifndub
 [youtube]: https://www.youtube.com/@microsoftsaif
-[instagram]: https://www.instagram.com/saifndub     
+[instagram]: https://www.instagram.com/saifndub
+[hugging-face]: https://huggingface.co/saifndub
+[backdrop-build]: https://backdropbuild.com/saifndub
 [portfolio]: https://saifndub.github.io/project
 [gmail]: mailto:saif.ndub@gmail.com
 
