@@ -16,30 +16,27 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 📫 Reach me at saif.ndub@gmail.com
-- ⚡ Languages: (Bangla, English, Deutsch, Japanese)
+- ⚡ Languages: (Bangla, English, Japanese)
 <hr>
 <h3 align="left">Languages and Tools :</h3>
 <p>
 
-[<img src="tools/01_c.svg" alt="cprogramming" width="40" height="40"/>][c]
+<!--[<img src="tools/01_c.svg" alt="cprogramming" width="40" height="40"/>][c]
 [<img src="tools/02_cpp.svg" alt="cplusplus" width="40" height="40"/>][cpp]
 [<img src="tools/02_nodejs.svg" alt="nodejs" width="40" height="40"/>][nodejs]
 [<img src="tools/05_java.svg" alt="java" width="40" height="40"/>][java]
 [<img src="tools/06_php.svg" alt="php" width="40" height="40"/> ][php]
 [<img src="tools/07_html5.svg" alt="html5" width="40" height="40"/>][html5]
 [<img src="tools/08_css3.svg" alt="css3" width="40" height="40"/>][css3]
-[<img src="tools/04_javascript.svg" alt="javascript" width="40" height="40"/>][js]
-[<img src="tools/09_bootstrap.svg" alt="bootstrap" width="40" height="40"/>][bootstrap]
+--------
 [<img src="tools/10_django.svg" alt="django" width="40" height="40"/>][django]
 [<img src="tools/11_flask.svg" alt="flask" width="40" height="40"/>][flask]
 [<img src="tools/15_sqlite.svg" alt="sqlite" width="40" height="40"/></a>][sqlite]
 [<img src="tools/12_oracle.svg" alt="oracle" width="40" height="40"/>][oracle]
-[<img src="tools/13_mysql.svg" alt="mysql" width="40" height="40"/>][mysql]
-[<img src="tools/14_mongodb.svg" alt="mongodb" width="40" height="40"/>][mongodb]
-[<img src="tools/29_arduino.svg" alt="arduino" width="40" height="40"/>][arduino]
+-------
 [<img src="tools/28_linux.svg" alt="linux" width="40" height="40"/>][linux]
 [<img src="tools/25_selenium.svg" alt="selenium" width="40" height="40"/>][selenium]
-[<img src="tools/26_puppeteer.svg" alt="puppeteer" width="40" height="40"/>][puppeteer]
+[<img src="tools/26_puppeteer.svg" alt="puppeteer" width="40" height="40"/>][puppeteer] -->
 
 [<img src="tools/03_python.svg" alt="python" width="40" height="40"/>][python]
 [<img src="tools/39_power_BI.svg" alt="power-bi" width="40" height="40"/>][power-bi]
@@ -53,6 +50,12 @@
 [<img src="tools/33_pytorch.svg" alt="pytorch" width="40" height="40"/>][pytorch]
 [<img src="tools/34_scipy_2.svg" alt="scipy" width="40" height="40"/>][scipy]
 [<img src="tools/35_seaborn.svg" alt="seaborn" width="40" height="40"/>][seaborn]
+
+[<img src="tools/04_javascript.svg" alt="javascript" width="40" height="40"/>][js]
+[<img src="tools/09_bootstrap.svg" alt="bootstrap" width="40" height="40"/>][bootstrap]
+[<img src="tools/13_mysql.svg" alt="mysql" width="40" height="40"/>][mysql]
+[<img src="tools/14_mongodb.svg" alt="mongodb" width="40" height="40"/>][mongodb]
+[<img src="tools/29_arduino.svg" alt="arduino" width="40" height="40"/>][arduino]
 </p>
 
 <img align="right" alt="Saif's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifndub&theme=dark&show_icons=true&locale=en" />
@@ -67,7 +70,7 @@
 [twitter]: https://twitter.com/saifndub
 [youtube]: https://www.youtube.com/@microsoftsaif
 [instagram]: https://www.instagram.com/saifndub     
-[portfolio]: https://saifndub.github.io/portfolio/
+[portfolio]: https://saifndub.github.io/project
 [gmail]: mailto:saif.ndub@gmail.com
 
 [c]: https://www.cprogramming.com/
