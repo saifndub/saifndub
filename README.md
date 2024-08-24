@@ -9,8 +9,8 @@
 [<img src="https://github.com/saifndub/saifndub/blob/master/icons/twitter.svg" width="40px" alt=" Twitter |" />][twitter]
 [<img src="https://github.com/saifndub/saifndub/blob/master/icons/youtube.svg" width="40px" alt=" YouTube |" />][youtube]
 [<img src="https://github.com/saifndub/saifndub/blob/master/icons/instagram.svg" width="40px" alt=" Instagram |" />][instagram]
-[<img src="https://github.com/saifndub/saifndub/blob/master/logos/hf-logo.png" width="40px" alt=" Hugging Face |" />][hugging-face]
-[<img src="https://github.com/saifndub/saifndub/blob/master/icons/build-logo.png" width="40px" alt=" Backdrop Build |" />][backdrop-build]
+[<img src="https://github.com/saifndub/saifndub/blob/master/logos/hf-logo.png" width="45px" alt=" Hugging Face |" />][hugging-face]
+[<img src="https://github.com/saifndub/saifndub/blob/master/logos/build-logo.png" width="45px" alt=" Backdrop Build |" />][backdrop-build]
 
 - ✍ You can find my projects [here][portfolio]
 - 🔭 I’m currently working on my Research
@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 📫 Reach me at saif.ndub@gmail.com
-- ⚡ Languages: (Bangla, English, Japanese)
+- ⚡ Languages: (Bangla, English, Japanese - N5)
 <hr>
 <h3 align="left">Languages and Tools :</h3>
 <p>
@@ -36,9 +36,7 @@
 [<img src="tools/15_sqlite.svg" alt="sqlite" width="40" height="40"/></a>][sqlite]
 [<img src="tools/12_oracle.svg" alt="oracle" width="40" height="40"/>][oracle]
 -------
-[<img src="tools/28_linux.svg" alt="linux" width="40" height="40"/>][linux]
-[<img src="tools/25_selenium.svg" alt="selenium" width="40" height="40"/>][selenium]
-[<img src="tools/26_puppeteer.svg" alt="puppeteer" width="40" height="40"/>][puppeteer] -->
+[<img src="tools/28_linux.svg" alt="linux" width="40" height="40"/>][linux] -->
 
 [<img src="tools/03_python.svg" alt="python" width="40" height="40"/>][python]
 [<img src="tools/39_power_BI.svg" alt="power-bi" width="40" height="40"/>][power-bi]
@@ -57,6 +55,8 @@
 [<img src="tools/13_mysql.svg" alt="mysql" width="40" height="40"/>][mysql]
 [<img src="tools/14_mongodb.svg" alt="mongodb" width="40" height="40"/>][mongodb]
 [<img src="tools/29_arduino.svg" alt="arduino" width="40" height="40"/>][arduino]
+[<img src="tools/25_selenium.svg" alt="selenium" width="40" height="40"/>][selenium]
+[<img src="tools/26_puppeteer.svg" alt="puppeteer" width="40" height="40"/>][puppeteer]
 </p>
 
 <img align="right" alt="Saif's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifndub&theme=dark&show_icons=true&locale=en" />
