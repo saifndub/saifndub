@@ -10,7 +10,7 @@
 [<img src="https://github.com/saifndub/saifndub/blob/master/icons/youtube.svg" width="40px" alt=" YouTube |" />][youtube]
 [<img src="https://github.com/saifndub/saifndub/blob/master/icons/instagram.svg" width="40px" alt=" Instagram |" />][instagram]
 [<img src="https://github.com/saifndub/saifndub/blob/master/logos/hf-logo.png" width="45px" alt=" Hugging Face |" />][hugging-face]
-[<img src="https://github.com/saifndub/saifndub/blob/master/logos/build-logo.png" width="45px" alt=" Backdrop Build |" />][backdrop-build]
+[<img src="https://github.com/saifndub/saifndub/blob/master/logos/build.png" width="45px" alt=" Backdrop Build |" />][backdrop-build]
 
 - ✍ You can find my projects [here][portfolio]
 - 🔭 I’m currently working on my Research
